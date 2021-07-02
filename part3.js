@@ -13,6 +13,8 @@ console.log(findLongestWord('Hello my name is Sabrina'));
 // Space complexity: O(n)
 // Time complexity: O(n)
 
+// RUNTIME GUESS 
+
 // EXTRA CREDIT
 
 function findUniqueChar(str) {
